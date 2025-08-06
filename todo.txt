@@ -1,1 +1,4 @@
 add proper animations in text of login and register page
+
+
+if backend is not running it show show appropriate message while login instead of saying incorrect username or pssword
