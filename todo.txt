@@ -1,0 +1,1 @@
+add proper animations in text of login and register page
